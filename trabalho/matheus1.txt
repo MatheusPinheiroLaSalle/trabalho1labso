@@ -1,0 +1,10 @@
+instrucoes.txt
+log/
+matheus1.txt
+matheus2.txt
+matheus23/
+matheus3.txt
+pasta1/
+pasta2/
+pasta3/
+trab1-2017.txt
